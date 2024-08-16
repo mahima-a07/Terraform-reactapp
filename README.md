@@ -1,7 +1,3 @@
-Here's a structured example of a GitHub README file for your Terraform EKS cluster setup, including suggestions for screenshots and explanations.
-
----
-
 # Terraform EKS Cluster Setup
 
 This repository contains Terraform configuration files for setting up an Amazon EKS cluster along with a VPC, security groups, and necessary outputs. The following files are included:
